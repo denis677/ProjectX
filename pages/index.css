@@ -1,0 +1,17 @@
+
+@import url(../vendor/normalize.css);
+
+
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__container/);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__profile/header__profile.css);
+@import url(../blocks/header/__myparty/header__myparty.css);
+@import url(../blocks/header/__party/header__party.css);
+@import url(../blocks/header/__about/header__about.css);
+
+@import url(../blocks/belowthehead/belowthehead.css);
