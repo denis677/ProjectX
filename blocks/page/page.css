@@ -1,0 +1,11 @@
+.page {
+  background-color: black;
+  max-width: 1980px;
+  margin: auto;
+  color: white;
+  font-family: 'Inter', monospace;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 22px;
+}
